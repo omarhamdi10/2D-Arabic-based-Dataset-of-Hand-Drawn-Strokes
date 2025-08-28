@@ -1,0 +1,1 @@
+# 2D-Arabic-based-Dataset-of-Hand-Drawn-Strokes
